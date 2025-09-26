@@ -302,7 +302,7 @@ OCN_attributes::
 
 ROF_attributes::
      Verbosity = off
-     mesh_rof = ./INPUT/access-om2-100km-nomask-ESMFmesh.nc
+     mesh_rof = ./INPUT/access-rom3-nomask-ESMFmesh.nc
 ::
 
 MED_modelio::

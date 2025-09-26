@@ -20,28 +20,20 @@ model: access-om3
 
 exe: access-om3-MOM6
 input:
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/hgrid.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/vcoord.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/bathymetry.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_tides_bgc/init_tracers_modified.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_tides_bgc/obgc_obc.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/init_eta.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/init_vel.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/forcing_obc_segment_001.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/forcing_obc_segment_002.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/forcing_obc_segment_003.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/forcing_obc_segment_004.nc  
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/grid_spec.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/ocean_mosaic.nc 
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/access-rom3-ESMFmesh.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/access-rom3-nomask-ESMFmesh.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/test_monthly/land_mask.nc
     - /g/data/vk83/configurations/inputs/access-om3/share/meshes/share/2024.09.16/JRA55do-datm-ESMFmesh.nc
     - /g/data/vk83/configurations/inputs/access-om3/share/meshes/share/2024.09.16/JRA55do-drof-ESMFmesh.nc
-    - /g/data/vk83/configurations/inputs/access-om3/share/grids/global.100km/2020.10.22/topog.nc
-    - /g/data/vk83/configurations/inputs/access-om3/mom/surface_salt_restoring/global.100km/2020.05.30/salt_sfc_restore.nc
-    - /g/data/vk83/configurations/inputs/access-om3/cice/grids/global.100km/2024.05.14/kmt.nc
-    - /g/data/vk83/configurations/inputs/access-om3/cice/initial_conditions/global.100km/2023.07.28/iced.1900-01-01-10800.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs//NW_shelf_iaf_notides_wombatlite/hgrid.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs//NW_shelf_iaf_notides_wombatlite/vcoord.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs//NW_shelf_iaf_notides_wombatlite/bathymetry.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_tracers_modified.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/obgc_obc.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_eta.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_vel.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/grid_spec.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/ocean_mosaic.nc 
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/access-rom3-ESMFmesh.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/access-rom3-nomask-ESMFmesh.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/dust_DS.nc  
     - /g/data/qv56/replicas/input4MIPs/CMIP6/OMIP/MRI/MRI-JRA55-do-1-4-0
  
 collate: false
