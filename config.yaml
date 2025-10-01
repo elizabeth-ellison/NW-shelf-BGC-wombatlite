@@ -8,10 +8,10 @@
 # (you may need to add the corresponding PBS -l storage flag in sync_data.sh)
 # shortpath: /scratch/v45
 
-queue: normal
-ncpus: 100
+queue: normalsr
+ncpus: 208
 jobfs: 10GB
-mem: 100GB
+mem: 1000GB
 
 walltime: 00:20:00
 jobname: test_wombatlite
@@ -40,6 +40,10 @@ collate: false
 runlog: false
 metadata: 
     enable: false
+
+platform:
+    nodesize: 104
+    nodemem: 512
 
 #userscripts:
     #archive: /usr/bin/bash /g/data/vk83/apps/om3-scripts/payu_config/archive.sh
