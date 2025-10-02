@@ -1,5 +1,5 @@
-#override DT=50
-#override DT_THERM=300
+#override DT=300
+#override DT_THERM=1800
 ! === Added with regional-mom6 ===
 #override MINIMUM_DEPTH = 11.0 !None
 #override NK = 100 !None
@@ -30,6 +30,4 @@
 #override OBC_TIDE_CONSTITUENTS = "0" !None
 #override OBC_TIDE_REF_DATE = 2017, 1, 1 !None
 
-&MOM_memory_nml
-    SYMMETRIC_MEMORY = True
 /
