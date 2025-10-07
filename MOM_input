@@ -112,7 +112,7 @@ TOPO_CONFIG = "file"            !
                                 !     Phillips - ACC-like idealized topography used in the Phillips config.
                                 !     dense - Denmark Strait-like dense water formation and overflow.
                                 !     USER - call a user modified routine.
-TOPO_FILE = "bathymetry.nc"     ! Name of the file containing bathymetry information. 
+TOPO_FILE = "bathymetry_mod.nc"     ! Name of the file containing bathymetry information. 
 MINIMUM_DEPTH = 4.5             !   [m] default = 0.0
                                 ! If MASKING_DEPTH is unspecified, then anything shallower than MINIMUM_DEPTH is
                                 ! assumed to be land and all fluxes are masked out. If MASKING_DEPTH is
@@ -183,11 +183,11 @@ PARALLEL_RESTARTFILES = True    !   [Boolean] default = False
 
 USE_IDEAL_AGE_TRACER = False     !   [Boolean] default = False
                                 ! If true, use the ideal_age_example tracer package.
-USE_generic_tracer = True       !   [Boolean] default = False
+USE_generic_tracer = False       !   [Boolean] default = False
                                 ! If true and _USE_GENERIC_TRACER is defined as a preprocessor macro, use the
                                 ! MOM_generic_tracer packages.
 
-
+GENERIC_TRACER_INITIAL_FILE = "init_tracers_modified.nc"
 
 ! === module MOM_boundary_update ===
 

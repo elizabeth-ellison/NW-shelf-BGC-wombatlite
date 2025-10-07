@@ -14,12 +14,13 @@ input:
     - /g/data/vk83/configurations/inputs/access-om3/share/meshes/share/2024.09.16/JRA55do-drof-ESMFmesh.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/hgrid.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/vcoord.nc
-    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/bathymetry.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/bathymetry_mod.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_tracers_modified.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/obgc_obc.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_eta.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/init_vel.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/grid_spec.nc
+    - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/land_mask.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/ocean_mosaic.nc 
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/access-rom3-ESMFmesh.nc
     - /scratch/nm03/ee8016/regional_mom6_configs/NW_shelf_iaf_notides_wombatlite/access-rom3-nomask-ESMFmesh.nc
