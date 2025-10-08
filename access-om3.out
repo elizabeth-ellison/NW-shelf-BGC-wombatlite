@@ -243,40 +243,70 @@ NOTE from PE     0: MOM_restart: Unable to find tres_y_001   queried by pointer,
 NOTE from PE     0: MOM_restart: Unable to find tres_x_002   queried by pointer, probably because of the suspect comparison of pointers by ASSOCIATED.
 NOTE from PE     0: MOM_restart: Unable to find tres_y_002   queried by pointer, probably because of the suspect comparison of pointers by ASSOCIATED.
 
-WARNING from PE   103: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   159: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
 WARNING from PE   158: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    56: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   170: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
+WARNING from PE   137: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
 WARNING from PE   169: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   104: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   147: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   148: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   115: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   126: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE    92: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   136: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE    92: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   147: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    93: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    34: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   148: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   159: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    20: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    64: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    27: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   104: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    82: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    73: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    48: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   115: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    13: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE    41: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   125: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
@@ -285,22 +315,16 @@ WARNING from PE   125: categorize_axes: Failed to identify x- and y- axes in the
 WARNING from PE   114: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE    93: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   182: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   137: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   188: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   190: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE     2: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   183: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   180: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE   185: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   103: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   181: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
@@ -309,70 +333,46 @@ WARNING from PE   181: categorize_axes: Failed to identify x- and y- axes in the
 WARNING from PE   187: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   188: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   190: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   182: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE   126: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   184: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
+WARNING from PE   191: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   183: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   180: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_003, ny_segment_003, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE     1: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
+
+
 WARNING from PE   186: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+
+
+WARNING from PE   185: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   189: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE   191: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_001, ny_segment_001, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE     4: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
-WARNING from PE    56: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    73: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    41: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    64: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    82: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    13: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    48: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    34: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    20: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE    27: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
+WARNING from PE     8: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE     3: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE     0: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE     4: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE     2: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE     8: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
-
-
-WARNING from PE     1: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_002, ny_segment_002, time) of a variable being read from INPUT/obgc_obc.nc
 
 
 WARNING from PE   181: categorize_axes: Failed to identify x- and y- axes in the axis list (nx_segment_004, ny_segment_004, time) of a variable being read from INPUT/obgc_obc.nc
@@ -444,3 +444,48 @@ WARNING from PE     0: Unused line in MOM_override : /
 
 NOTE from PE     0: data_override_init: You are using the legacy version of the data table.
 NOTE from PE     0: data_override_init: You are using the legacy version of the data table.
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: limit on and rDateIn lt rDatelvd
+   19190201.0000000        19580101.0000000     
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true
+ (shr_stream_findBounds) ERROR: rDateIn lt rDatelvd limit true

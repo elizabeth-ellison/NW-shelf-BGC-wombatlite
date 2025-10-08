@@ -1,0 +1,2 @@
+payu: error: work path already exists: /scratch/nm03/ee8016/access-om3/work/wombatlite_notides.
+             payu sweep and then payu run
