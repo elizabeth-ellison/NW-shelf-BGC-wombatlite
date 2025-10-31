@@ -1,0 +1,132 @@
+Loading access-om3/2025.08.001
+  Loading requirement: access3-share/2025.08.000-boxuhvc
+    access-cice/CICE6.6.1-0-zn7j4gh access-mocsy/2025.07.002-7spiczz
+    access-generic-tracers/2025.08.000-nqp2kve access-mom6/2025.07.000-v5yjei7
+    access-ww3/2025.08.000-nqu7jzg access3/2025.08.000-n2qsfzd
+Currently Loaded Modulefiles:
+ 1) access3-share/2025.08.000-boxuhvc           11) openmpi/4.1.7-ushgfj4  
+ 2) access-cice/CICE6.6.1-0-zn7j4gh             12) pbs                    
+ 3) access-mocsy/2025.07.002-7spiczz            
+ 4) access-generic-tracers/2025.08.000-nqp2kve  
+ 5) access-mom6/2025.07.000-v5yjei7             
+ 6) access-ww3/2025.08.000-nqu7jzg              
+ 7) access3/2025.08.000-n2qsfzd                 
+ 8) access-om3/2025.08.001                      
+ 9) nco/5.0.5                                   
+10) model-tools/mppnccombine-fast/2025.07.000   
+
+------------------------------------------------------------------------
+Job 152027154 has exceeded memory allocation on node gadi-cpu-spr-0489.gadi.nci.org.au
+Process "bash", pid 2741455, rss 2945024, vmem 10117120
+Process "pbs_demux", pid 2741465, rss 2535424, vmem 38907904
+Process "starter-suid", pid 2741468, rss 8790016, vmem 1307512832
+Process "python", pid 2741494, rss 48570368, vmem 14645514240
+Process "mpirun", pid 2742673, rss 19935232, vmem 583499776
+Process "access-om3-MOM6", pid 2742683, rss 4396613632, vmem 14715314176
+Process "access-om3-MOM6", pid 2742684, rss 4741308416, vmem 13269180416
+Process "access-om3-MOM6", pid 2742685, rss 4240801792, vmem 19997773824
+Process "access-om3-MOM6", pid 2742686, rss 4259508224, vmem 9827319808
+Process "access-om3-MOM6", pid 2742687, rss 4702015488, vmem 13345304576
+Process "access-om3-MOM6", pid 2742688, rss 4331720704, vmem 11359506432
+Process "access-om3-MOM6", pid 2742689, rss 3918016512, vmem 20703477760
+Process "access-om3-MOM6", pid 2742690, rss 3992588288, vmem 16446267392
+Process "access-om3-MOM6", pid 2742691, rss 4018454528, vmem 18935701504
+Process "access-om3-MOM6", pid 2742692, rss 3992031232, vmem 8491769856
+Process "access-om3-MOM6", pid 2742693, rss 4431790080, vmem 23632703488
+Process "access-om3-MOM6", pid 2742694, rss 4430700544, vmem 24484290560
+Process "access-om3-MOM6", pid 2742695, rss 4010823680, vmem 10337026048
+Process "access-om3-MOM6", pid 2742696, rss 3967848448, vmem 12266061824
+Process "access-om3-MOM6", pid 2742697, rss 3911794688, vmem 13331730432
+Process "access-om3-MOM6", pid 2742698, rss 3944017920, vmem 11955957760
+Process "access-om3-MOM6", pid 2742699, rss 2924773376, vmem 22529282048
+Process "access-om3-MOM6", pid 2742700, rss 2907668480, vmem 22927179776
+Process "access-om3-MOM6", pid 2742701, rss 2904027136, vmem 13450874880
+Process "access-om3-MOM6", pid 2742702, rss 3356815360, vmem 21777649664
+Process "access-om3-MOM6", pid 2742703, rss 3354791936, vmem 14739582976
+Process "access-om3-MOM6", pid 2742704, rss 2935484416, vmem 7174586368
+Process "access-om3-MOM6", pid 2742705, rss 2934202368, vmem 17675517952
+Process "access-om3-MOM6", pid 2742706, rss 2913353728, vmem 19116920832
+Process "access-om3-MOM6", pid 2742707, rss 2920431616, vmem 10009169920
+Process "access-om3-MOM6", pid 2742708, rss 2933702656, vmem 12062568448
+Process "access-om3-MOM6", pid 2742709, rss 2915393536, vmem 12051648512
+Process "access-om3-MOM6", pid 2742710, rss 2933981184, vmem 7775895552
+Process "access-om3-MOM6", pid 2742711, rss 2920382464, vmem 11180617728
+Process "access-om3-MOM6", pid 2742712, rss 3358752768, vmem 16615489536
+Process "access-om3-MOM6", pid 2742713, rss 3362672640, vmem 20411314176
+Process "access-om3-MOM6", pid 2742714, rss 2943082496, vmem 9972363264
+Process "access-om3-MOM6", pid 2742715, rss 2935001088, vmem 18251276288
+Process "access-om3-MOM6", pid 2742716, rss 2933739520, vmem 13957087232
+Process "access-om3-MOM6", pid 2742717, rss 2935889920, vmem 22084296704
+Process "access-om3-MOM6", pid 2742718, rss 2918293504, vmem 13658869760
+Process "access-om3-MOM6", pid 2742719, rss 2932506624, vmem 19321892864
+Process "access-om3-MOM6", pid 2742720, rss 2932518912, vmem 12531781632
+Process "access-om3-MOM6", pid 2742721, rss 2933960704, vmem 8625459200
+Process "access-om3-MOM6", pid 2742722, rss 3325878272, vmem 18135474176
+Process "access-om3-MOM6", pid 2742723, rss 3359068160, vmem 19906895872
+Process "access-om3-MOM6", pid 2742724, rss 2891804672, vmem 17180180480
+Process "access-om3-MOM6", pid 2742725, rss 2893537280, vmem 8282124288
+Process "access-om3-MOM6", pid 2742726, rss 2892926976, vmem 11739226112
+Process "access-om3-MOM6", pid 2742727, rss 2893856768, vmem 19966214144
+Process "access-om3-MOM6", pid 2742728, rss 2915512320, vmem 7265566720
+Process "access-om3-MOM6", pid 2742729, rss 2887413760, vmem 8710201344
+Process "access-om3-MOM6", pid 2742730, rss 2892251136, vmem 19346739200
+Process "access-om3-MOM6", pid 2742731, rss 2891816960, vmem 6183710720
+Process "access-om3-MOM6", pid 2742732, rss 2916327424, vmem 12405534720
+Process "access-om3-MOM6", pid 2742733, rss 3338420224, vmem 13083955200
+Process "access-om3-MOM6", pid 2742734, rss 3347513344, vmem 13360685056
+Process "access-om3-MOM6", pid 2742735, rss 2911281152, vmem 17416425472
+Process "access-om3-MOM6", pid 2742736, rss 2918019072, vmem 11641749504
+Process "access-om3-MOM6", pid 2742737, rss 2914594816, vmem 8666599424
+Process "access-om3-MOM6", pid 2742738, rss 2911141888, vmem 7067463680
+Process "access-om3-MOM6", pid 2742739, rss 2908856320, vmem 20687486976
+Process "access-om3-MOM6", pid 2742740, rss 3365752832, vmem 18455621632
+Process "access-om3-MOM6", pid 2742741, rss 2913099776, vmem 11498708992
+Process "access-om3-MOM6", pid 2742742, rss 3358535680, vmem 9365438464
+Process "access-om3-MOM6", pid 2742743, rss 2914230272, vmem 10386382848
+Process "access-om3-MOM6", pid 2742744, rss 2917335040, vmem 9568923648
+Process "access-om3-MOM6", pid 2742745, rss 2915692544, vmem 20427014144
+Process "access-om3-MOM6", pid 2742746, rss 2909450240, vmem 21898014720
+Process "access-om3-MOM6", pid 2742747, rss 2914770944, vmem 15078383616
+Process "access-om3-MOM6", pid 2742748, rss 2915241984, vmem 23037751296
+Process "access-om3-MOM6", pid 2742749, rss 2932051968, vmem 8108654592
+Process "access-om3-MOM6", pid 2742750, rss 2915856384, vmem 15241404416
+Process "access-om3-MOM6", pid 2742751, rss 2911637504, vmem 6942240768
+Process "access-om3-MOM6", pid 2742753, rss 3346489344, vmem 15033438208
+Process "access-om3-MOM6", pid 2742756, rss 2910220288, vmem 16297172992
+Process "access-om3-MOM6", pid 2742758, rss 2911502336, vmem 22116593664
+Process "access-om3-MOM6", pid 2742764, rss 3342532608, vmem 14636191744
+Process "access-om3-MOM6", pid 2742814, rss 2932858880, vmem 18342559744
+Process "access-om3-MOM6", pid 2742840, rss 2932350976, vmem 14148644864
+Process "access-om3-MOM6", pid 2742841, rss 2935214080, vmem 15216283648
+Process "access-om3-MOM6", pid 2742843, rss 2910478336, vmem 22221905920
+Process "access-om3-MOM6", pid 2742844, rss 2931982336, vmem 19438002176
+Process "access-om3-MOM6", pid 2742845, rss 3358523392, vmem 11129839616
+Process "access-om3-MOM6", pid 2742846, rss 3367530496, vmem 7923220480
+Process "access-om3-MOM6", pid 2742847, rss 2931417088, vmem 7111516160
+Process "access-om3-MOM6", pid 2742848, rss 2932809728, vmem 12489297920
+Process "access-om3-MOM6", pid 2742849, rss 2931961856, vmem 17548517376
+Process "access-om3-MOM6", pid 2742852, rss 2935914496, vmem 9152614400
+Process "access-om3-MOM6", pid 2742853, rss 2935185408, vmem 15751213056
+Process "access-om3-MOM6", pid 2742854, rss 2932039680, vmem 17464717312
+Process "access-om3-MOM6", pid 2742855, rss 2934378496, vmem 13051772928
+Process "access-om3-MOM6", pid 2742857, rss 2932322304, vmem 7182884864
+Process "access-om3-MOM6", pid 2742858, rss 2934841344, vmem 15964520448
+Process "access-om3-MOM6", pid 2742860, rss 3746779136, vmem 7344271360
+Process "access-om3-MOM6", pid 2742861, rss 3343712256, vmem 8067575808
+Process "access-om3-MOM6", pid 2742862, rss 3359539200, vmem 12640452608
+Process "access-om3-MOM6", pid 2742863, rss 3345113088, vmem 20425146368
+Process "access-om3-MOM6", pid 2742864, rss 3343167488, vmem 10795954176
+Process "access-om3-MOM6", pid 2742865, rss 3343056896, vmem 6990110720
+Process "access-om3-MOM6", pid 2742866, rss 3344326656, vmem 14105677824
+Process "access-om3-MOM6", pid 2742867, rss 3344236544, vmem 16170913792
+Process "access-om3-MOM6", pid 2742868, rss 3342872576, vmem 14043648000
+Process "access-om3-MOM6", pid 2742869, rss 3764191232, vmem 22329106432
+Process "access-om3-MOM6", pid 2742870, rss 3342483456, vmem 21532295168
+Process "access-om3-MOM6", pid 2742871, rss 233275392, vmem 8061603840
+Process "access-om3-MOM6", pid 2742872, rss 234872832, vmem 10150264832
+Process "access-om3-MOM6", pid 2742873, rss 236584960, vmem 4719607808
+Process "access-om3-MOM6", pid 2742874, rss 233160704, vmem 8352632832
+------------------------------------------------------------------------
+For more information visit https://opus.nci.org.au/x/SwGRAQ
+------------------------------------------------------------------------
+payu: Model exited with error code 137; aborting.

@@ -1,0 +1,16 @@
+Loading access-om3/2025.08.001
+  Loading requirement: access3-share/2025.08.000-boxuhvc
+    access-cice/CICE6.6.1-0-zn7j4gh access-mocsy/2025.07.002-7spiczz
+    access-generic-tracers/2025.08.000-nqp2kve access-mom6/2025.07.000-v5yjei7
+    access-ww3/2025.08.000-nqu7jzg access3/2025.08.000-n2qsfzd
+Currently Loaded Modulefiles:
+ 1) access3-share/2025.08.000-boxuhvc           11) openmpi/4.1.7-ushgfj4  
+ 2) access-cice/CICE6.6.1-0-zn7j4gh             12) pbs                    
+ 3) access-mocsy/2025.07.002-7spiczz            
+ 4) access-generic-tracers/2025.08.000-nqp2kve  
+ 5) access-mom6/2025.07.000-v5yjei7             
+ 6) access-ww3/2025.08.000-nqu7jzg              
+ 7) access3/2025.08.000-n2qsfzd                 
+ 8) access-om3/2025.08.001                      
+ 9) nco/5.0.5                                   
+10) model-tools/mppnccombine-fast/2025.07.000   
