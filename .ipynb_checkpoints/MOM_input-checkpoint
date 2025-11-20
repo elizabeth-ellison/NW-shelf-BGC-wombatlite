@@ -1,4 +1,3 @@
-f
 ! ------------------------
 NIGLOBAL = 800                 !
                                 ! The total number of thickness grid points in the x-direction in the physical
@@ -6,7 +5,8 @@ NIGLOBAL = 800                 !
 NJGLOBAL = 986                  !
                                 ! The total number of thickness grid points in the y-direction in the physical
                                 ! domain. With STATIC_MEMORY_ this is set in MOM_memory.h at compile time.
-
+REENTRANT_X = False              !   [Boolean] default = True
+REENTRANT_Y = False            !   [Boolean] default = False
 ! === module MOM_vert_friction ===
 U_TRUNC_FILE = "U_velocity_truncations" ! default = ""
                                 ! The absolute path to a file into which the accelerations leading to zonal
@@ -20,6 +20,14 @@ V_TRUNC_FILE = "V_velocity_truncations" ! default = ""
 ! === module MOM_file_parser ===
 FATAL_UNUSED_PARAMS = False      !   [Boolean] default = False
                                 ! If true, kill the run if there are any unused parameters.
+
+! === module MOM_tracer_flow_control ===
+USE_FILE_DYES = True
+
+FILE_DYE_TRACERS_FILE = "five_dye_input.nc"
+
+NUM_FILE_DYE_TRACERS = 5
+
 
 ! This section contains non default layout parameters which are set.
 ! ------------------------

@@ -1,108 +1,108 @@
 format: yamanifest
 version: 1.0
 ---
-work/access-om3.cpl.r.2012-06-01-00000.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.cpl.r.2012-06-01-00000.nc
+work/access-om3.cpl.r.2012-09-01-00000.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.cpl.r.2012-09-01-00000.nc
   hashes:
-    binhash: a673d2c7a3a223a9a1f3ac03ca03a404
-    md5: 10529571fb09bb8ecfddb70b0675c673
-work/access-om3.datm.r.2012-06-01-00000.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.datm.r.2012-06-01-00000.nc
+    binhash: 0e40de9a466fc05b087e60120957e5ca
+    md5: be0477a8ef2b45ad5766c854ac1b8355
+work/access-om3.datm.r.2012-09-01-00000.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.datm.r.2012-09-01-00000.nc
   hashes:
-    binhash: 11cf4e632b69bd54eb950aea6be3d86b
+    binhash: e870a1642f610d52cfe7868080c3ea73
     md5: 574933b2899cee303c966a12611e0b9f
-work/access-om3.drof.r.2012-06-01-00000.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.drof.r.2012-06-01-00000.nc
+work/access-om3.drof.r.2012-09-01-00000.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.drof.r.2012-09-01-00000.nc
   hashes:
-    binhash: 21fa10cc4ef4d43cd4b0278af6a843e4
+    binhash: 3fee6acd548af45dd7370c73a9aa74eb
     md5: de0e3ccf3eb81d807c21f24533739771
-work/access-om3.mom6.r.2012-06-01-00000.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000.nc
+work/access-om3.mom6.r.2012-09-01-00000.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000.nc
   hashes:
-    binhash: 92e4dbbf4dec22d2ebe4596812d004e0
-    md5: e459f0f5801b6a596567f8810dc1ef55
-work/access-om3.mom6.r.2012-06-01-00000_1.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_1.nc
+    binhash: d144871c7d7adc8ce5b276356e337cd5
+    md5: 4a97324e8046fde17f67396734b07d96
+work/access-om3.mom6.r.2012-09-01-00000_1.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_1.nc
   hashes:
-    binhash: 56241f970cb6eedbb648a261b1ddc0b9
-    md5: bd75d3e77040b97c9ead38648ee1a4d0
-work/access-om3.mom6.r.2012-06-01-00000_10.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_10.nc
+    binhash: 35b27757098929ac8cef1d6a3f287d7a
+    md5: e4cfefdad1dab2da272791b599c67b75
+work/access-om3.mom6.r.2012-09-01-00000_10.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_10.nc
   hashes:
-    binhash: d9cb8092c82ac30505664222f10cb030
-    md5: b4eda7ce7af4345fba09c6f8d48a0d49
-work/access-om3.mom6.r.2012-06-01-00000_11.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_11.nc
+    binhash: bd5e54bc900ac4ece803298b936ff88c
+    md5: f700af65caa4f97d38afe659cf97fe79
+work/access-om3.mom6.r.2012-09-01-00000_11.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_11.nc
   hashes:
-    binhash: 1860219a58a8e4874dc90ab4d121e5bd
-    md5: 6c126cd9c4049fe513460aa545221610
-work/access-om3.mom6.r.2012-06-01-00000_12.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_12.nc
+    binhash: 0fccc31a75f271ee22623095c7b3340c
+    md5: fd81f140b931828bf13d8c1d5ff9d07b
+work/access-om3.mom6.r.2012-09-01-00000_12.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_12.nc
   hashes:
-    binhash: 97b614b4ff601add6d5cf399532b9bc7
-    md5: 69c0c0909cd2bd7ef68e5a0223e0ca08
-work/access-om3.mom6.r.2012-06-01-00000_2.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_2.nc
+    binhash: 72886e84223029673c9c0e373c5b650f
+    md5: d44a26169b560a71287c4b89db929c0f
+work/access-om3.mom6.r.2012-09-01-00000_2.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_2.nc
   hashes:
-    binhash: 56da67a1897fde7e7cbb6c47c3c79bba
-    md5: e83aca408bd80ad5074a80dd5548f036
-work/access-om3.mom6.r.2012-06-01-00000_3.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_3.nc
+    binhash: 3b53f66cf2d7833b0c490844a8393e9f
+    md5: 064ba32e5d67e0bac8ff2c8f355a151b
+work/access-om3.mom6.r.2012-09-01-00000_3.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_3.nc
   hashes:
-    binhash: 6e11bb1aabbf95f7d2b5216e2e68c068
-    md5: 8c055087c393febcba53ee20bfb9c18e
-work/access-om3.mom6.r.2012-06-01-00000_4.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_4.nc
+    binhash: 86b88fd42624bbb0a8977d73e146301f
+    md5: 070468d98c923dbbe4df85ab420f636f
+work/access-om3.mom6.r.2012-09-01-00000_4.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_4.nc
   hashes:
-    binhash: e855d156a8c38802c34a9de0cfe4cb88
-    md5: fb6bf005620fb6515520987abce9543c
-work/access-om3.mom6.r.2012-06-01-00000_5.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_5.nc
+    binhash: dd9f578473ea9e011615b4defa4b0a79
+    md5: 721393ea14f511160cbba6a6e8cb9a85
+work/access-om3.mom6.r.2012-09-01-00000_5.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_5.nc
   hashes:
-    binhash: e5f5c4c9b40d0c06ccbc0f7af6b29c4a
-    md5: d1c2afa8e43be452fa852953a97ce5c3
-work/access-om3.mom6.r.2012-06-01-00000_6.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_6.nc
+    binhash: 976d1a1f27cba00e7a79a26e89c57d8d
+    md5: dad0ebdd1e0eeec133ba98534ba03b8b
+work/access-om3.mom6.r.2012-09-01-00000_6.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_6.nc
   hashes:
-    binhash: 198912089ddc7cb8707bf8dd35cd56e3
-    md5: cc756601b9d97d25a0fd7d4c8ea605fc
-work/access-om3.mom6.r.2012-06-01-00000_7.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_7.nc
+    binhash: d79ed58c93608dd55f2435522f768aa7
+    md5: 53a3f5558a631eba126e5858c8f9579b
+work/access-om3.mom6.r.2012-09-01-00000_7.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_7.nc
   hashes:
-    binhash: 4808abe600294d34d85ad326935c79ad
-    md5: aea55ba315a0a59d34d41d10ddee67fe
-work/access-om3.mom6.r.2012-06-01-00000_8.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_8.nc
+    binhash: 188cd29e9b3b0b8ce8f51fb9dbbe33bd
+    md5: d033a4d695c58022281c9d361420204a
+work/access-om3.mom6.r.2012-09-01-00000_8.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_8.nc
   hashes:
-    binhash: 4069116f077b63c79474707e0d432e24
-    md5: 6db793418e1563a9fc737fcd9804792b
-work/access-om3.mom6.r.2012-06-01-00000_9.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/access-om3.mom6.r.2012-06-01-00000_9.nc
+    binhash: e08d6c2ade8aea5625f01c67796a12e5
+    md5: eac0bc5216c4846fbc17b02b53d1933c
+work/access-om3.mom6.r.2012-09-01-00000_9.nc:
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/access-om3.mom6.r.2012-09-01-00000_9.nc
   hashes:
-    binhash: b5acb0ee5d74fb2524148e83d00a1616
-    md5: da5a21be7d2e5e329dd8e72e0b41c13d
+    binhash: 56cae3c2603d0cdf1583a4e4c04a22cf
+    md5: 88ceed8af93cb5b094978859cb935fb3
 work/ocean_wombatlite_airsea_flux.res.nc:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/ocean_wombatlite_airsea_flux.res.nc
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/ocean_wombatlite_airsea_flux.res.nc
   hashes:
-    binhash: 547289531d43c13e146b11be19dc2f88
-    md5: 0d6d784fc9052c720ea580ece912f1ae
+    binhash: ff76af5b5b8ca5e6d35122f4b778c6c3
+    md5: ff271cdc778e4d1a0d1414a9da6847f3
 work/rpointer.atm:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/rpointer.atm
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/rpointer.atm
   hashes:
-    binhash: e64da148a4b778c14de19f40b8c5f030
-    md5: 472d2128891bd0ef848800fef8bd3f2c
+    binhash: 4e092acbb6c13adba4b89e2b6da2502c
+    md5: c9cf2b39f6412d597c41a2c74555206c
 work/rpointer.cpl:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/rpointer.cpl
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/rpointer.cpl
   hashes:
-    binhash: e316145d805ef68823828a17bdd7c493
-    md5: 350b100f82366e23608d8c6e7508e6d3
+    binhash: 3fac222a05028dfac905d771089f65bd
+    md5: 830be327992561ac687de8470ed1c1a5
 work/rpointer.ocn:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/rpointer.ocn
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/rpointer.ocn
   hashes:
-    binhash: d36bf783694736bb9571543a83e1c832
-    md5: 2126f3700d0ff30ce4405b3b9bf034e3
+    binhash: f0622a05ea991accbb38077fd9d49edc
+    md5: c94665206d3e5214a2a861a9d0575773
 work/rpointer.rof:
-  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart003/rpointer.rof
+  fullpath: /scratch/nm03/ee8016/access-om3/archive/Ningaloo_wombatlite/restart006/rpointer.rof
   hashes:
-    binhash: d93e582b88a562cf1d98b61641541cb1
-    md5: b7f538b63994d8cd613e2d202a6c96bd
+    binhash: 9e1b90177f7f078b6239b28072b37b8a
+    md5: e19e1146945656d6389cbeaa28398a48
